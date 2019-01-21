@@ -1,2 +1,2 @@
-# KP
+# KP Kerja Prakter
 Kasir
